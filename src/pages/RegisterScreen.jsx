@@ -22,7 +22,7 @@ const RegisterScreen = () => {
       <Spacer space={20}/>
       <Text style={styles.subtitle}>---- Or ----</Text>
       <Spacer space={20}/>
-     <AppButton />
+     <AppButton text="Register"/>
       </View>
    
     </View>
