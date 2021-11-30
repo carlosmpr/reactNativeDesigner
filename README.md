@@ -1,6 +1,6 @@
-# MenuKome
+# Designer
 
- A fully serverless Smart menu for restaurants, that highlight main dishes, special of the day, and show recommendations for customers of drinks and side plates to accompany the main dish.
+Designer is an online clothing store for men and women that are looking to buy clothes for local designers.
 
 ## Develop with
  - ReactNative.
